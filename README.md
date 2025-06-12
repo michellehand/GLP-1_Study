@@ -1,15 +1,19 @@
 # GLP-1 Study
-Objective
+**Objective**
+
 Determine whether members taking weight-loss GLP-1 agonists (Wegovy, Saxenda, or Zepbound) decrease their medical costs. The first hypothesis is that members taking GLP-1s have reduced medical expenses over time. The second hypothesis is that members who are similar in medical characteristics but who have not taken GLP-1s are more costly on the plan.
 A second study was done looking at members who took a GLP-1 who took the prescription for 20% of the time over two years. The hypothesis is that those members will not see their medical costs drop as much as the more consistent GLP-1 takers.
-Parameters
+
+**Parameters**
+
 261 members were analyzed in MMA’s book of business. There are over a million members in the PATH database. These members initiated weight-loss agents in 2022 and were required to have a Percentage of Days Covered (PDC) for 65% of the time they were on the GLP-1s for at least two years. Since this is a smaller dataset, the PDC was dropped down from the standard 80% to capture a wider net of study. They also needed to be continuously enrolled on plans since January 2021. All claims reviewed with paid in calendar years 2021 through 2024. 2021 is the baseline year where no members were prescribed GLP-1 drugs.
 The matched pair cohort used propensity score to match members with similar characteristics to the original cohort. They needed to be continuously enrolled since 2021. These members were matched to the original cohort using covariates based on age, gender, member relationship, and including an overweight or obese diagnosis in the study timeline. The matched pair cohort had members with rheumatoid arthritis agents removed from the dataset because the specialty costs of those drugs were skewing the pharmacy costs – an issue where the treatment study did not have those high cost drugs.
 For the second study, the PDC was dropped to 20% over two years. 171 members were located in this cohort.
 
 Medical and pharmacy claims were reviewed adjusted for inflation. Source and computation are at the end of the document.
 
-Observations
+**Observations**
+
 GLP-1 Cohort >= 65%
 Most of the members are Generation X, with 88% of the cohort being female. 87% of the population were the subscribers on the plan. 
 
