@@ -1,4 +1,4 @@
-# GLP-1_Study
+# GLP-1 Study
 Objective
 Determine whether members taking weight-loss GLP-1 agonists (Wegovy, Saxenda, or Zepbound) decrease their medical costs. The first hypothesis is that members taking GLP-1s have reduced medical expenses over time. The second hypothesis is that members who are similar in medical characteristics but who have not taken GLP-1s are more costly on the plan.
 A second study was done looking at members who took a GLP-1 who took the prescription for 20% of the time over two years. The hypothesis is that those members will not see their medical costs drop as much as the more consistent GLP-1 takers.
@@ -8,6 +8,7 @@ The matched pair cohort used propensity score to match members with similar char
 For the second study, the PDC was dropped to 20% over two years. 171 members were located in this cohort.
 
 Medical and pharmacy claims were reviewed adjusted for inflation. Source and computation are at the end of the document.
+
 Observations
 GLP-1 Cohort >= 65%
 Most of the members are Generation X, with 88% of the cohort being female. 87% of the population were the subscribers on the plan. 
