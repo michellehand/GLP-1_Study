@@ -25,15 +25,6 @@ Weight-loss GLP-1 cost $727 PMPM and increased to $1,067 in 2024. Only 251 of th
 
 Osteoarthritis costs dropped from $96 PMPM to $31 PMPM. Spondylopathies dropped $63 to $16. Persons encountering for health exams increased $49 to $65. Sleep disorders dropped $41 to $4.
 
-Matched Cohort
-In 2021, normalized medical PMPM was $602 and pharmacy PMPM was $2,108. In 2024, medical PMPM was $759 and pharmacy PMPM was $3,228. Pharmacy costs increased 53% and medical costs increased 26%. Average medical member costs for 2021 was $7,629 per year. They increased to $9,247 in 2024. Average pharmacy cost per member in 2021 was $29,373. This increased to $41,773 in 2024.
-
-Outpatient surgery PMPMs continue to grow for this group, from $106 to $155, mostly driven by benign neoplasm and gallbladder related diagnosis. Inpatient admits PMPM grew from $122 to $143. The top diagnosis was overweight and obesity, from $17 to $37. Gastric bypass surgery. The other driver was sepsis in 2024. ER visits grew from $20 to $55. Chronic conditions grew from $602 to $759, with the drivers being cancer treatment and overweight and obesity.
-
-Even with the RA drugs/members removed from a potential match, members that have never taken a GLP-1 have massive costs in multiple sclerosis agents, at $1,410 in 2024.
-
-Overweight and obesity PMPMs grew from $27 to $45 over the 3 years.
-
 GLP-1 Cohort =< 20%
 171 members were in this cohort. Most of the members are Generation X, with 83% of the cohort being female. 70% of the population were the subscribers on the plan. 
 
