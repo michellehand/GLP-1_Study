@@ -36,3 +36,10 @@ Weight-loss GLP-1 cost $122 PMPM and dropped to $100 in 2024. Only 39 of the 171
 
 
 Tools used to perform this analysis were SQL, Python, Jupyter Notebooks and Power BI.
+
+BOB_GLPWLA_Analysis_PDC_Longevity: Notebook that runs initial query and determines PDC for 65%
+BOB_GLPWLA_Analysis_PDC_Longevity-20:Notebook that runs initial query and determines PDC for 20%
+Combined_Cohort_PDC-NOFILTER: Runs PSM cohort matching for PDC 65 and no GLP-1 takers
+NO_WEGOVY_MEMBERS: Runs initial query to exclude members with weight-loss drugs
+
+
