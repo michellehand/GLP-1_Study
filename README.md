@@ -9,10 +9,10 @@ A second study was done looking at members who took a GLP-1 who took the prescri
 **Parameters**
 
 261 members were analyzed in MMA’s book of business. There are over a million members in the PATH database. These members initiated weight-loss agents in 2022 and were required to have a Percentage of Days Covered (PDC) for 65% of the time they were on the GLP-1s for at least two years. Since this is a smaller dataset, the PDC was dropped down from the standard 80% to capture a wider net of study. They also needed to be continuously enrolled on plans since January 2021. All claims reviewed with paid in calendar years 2021 through 2024. 2021 is the baseline year where no members were prescribed GLP-1 drugs.
-The matched pair cohort used propensity score to match members with similar characteristics to the original cohort. They needed to be continuously enrolled since 2021. These members were matched to the original cohort using covariates based on age, gender, member relationship, and including an overweight or obese diagnosis in the study timeline. The matched pair cohort had members with rheumatoid arthritis agents removed from the dataset because the specialty costs of those drugs were skewing the pharmacy costs – an issue where the treatment study did not have those high cost drugs.
+The matched pair cohort used propensity score to match members with similar characteristics to the original cohort. They needed to be continuously enrolled since 2021. These members were matched to the original cohort using covariates based on age, gender, member relationship, and including an overweight or obese diagnosis in the study timeline.
 For the second study, the PDC was dropped to 20% over two years. 171 members were located in this cohort.
 
-Medical and pharmacy claims were reviewed adjusted for inflation. Source and computation are at the end of the document.
+Medical and pharmacy claims were reviewed adjusted for inflation.
 
 **Observations**
 
@@ -27,7 +27,7 @@ Weight-loss GLP-1 cost $727 PMPM and increased to $1,067 in 2024. Only 251 of th
 
 Osteoarthritis costs dropped from $96 PMPM to $31 PMPM. Spondylopathies dropped $63 to $16. Persons encountering for health exams increased $49 to $65. Sleep disorders dropped $41 to $4.
 
-GLP-1 Cohort =< 20%
+GLP-1 Cohort <= 20%
 171 members were in this cohort. Most of the members are Generation X, with 83% of the cohort being female. 70% of the population were the subscribers on the plan. 
 
 In 2021, normalized medical PMPM was $795 and pharmacy PMPM was $160. In 2024, medical PMPM was $920 and pharmacy PMPM was $469. Pharmacy costs increased 193% and medical costs increased 16%. Average medical member costs for 2021 was $9,831 per year. They increased to $11,233  in 2024. Average pharmacy cost per member in 2021 was $2,164. This increased to $5,862 in 2024.
