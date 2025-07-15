@@ -87,9 +87,3 @@ This project models the impact of adherence to weight-loss GLP-1 medications—*
 - Add modeling via `Streamlit` for adjustable cost scenarios (by drug, adherence, and plan size)
 - Simulate cost trajectories with real-world pricing assumptions
 - Create a web-based dashboard for employer benefit strategy teams
-
----
-
-## 📬 Contact
-
-For questions or collaboration inquiries, reach out to [Your Name] at [your-email@example.com] or visit [your-portfolio-site.com].
