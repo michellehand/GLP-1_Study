@@ -1,4 +1,4 @@
-# 💊 GLP-1 Adherence & Cost Impact Modeling
+# GLP-1 Adherence & Cost Impact Modeling
 
 This project models the impact of adherence to weight-loss GLP-1 medications—**Wegovy, Saxenda, and Zepbound**—on healthcare costs using mock claims data. The goal is to evaluate how consistent usage of these drugs affects **medical and pharmacy spending** over a multi-year period.
 
@@ -6,7 +6,7 @@ This project models the impact of adherence to weight-loss GLP-1 medications—*
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 1. Assess whether members on GLP-1 medications experience reduced medical costs over time.
 2. Compare cost trends between adherent users, low-adherence users, and matched non-users.
@@ -14,7 +14,7 @@ This project models the impact of adherence to weight-loss GLP-1 medications—*
 
 ---
 
-## 🗂️ Study Parameters
+## Study Parameters
 
 - **Dataset Size**:
   - 261 members with ≥65% PDC (adherent users)
@@ -35,7 +35,7 @@ This project models the impact of adherence to weight-loss GLP-1 medications—*
 
 ---
 
-## 🛠️ Tools & Stack
+## Tools & Stack
 
 - `SQL` – data extraction from mock claims tables
 - `Python` – data processing, modeling, and statistical matching
@@ -44,9 +44,9 @@ This project models the impact of adherence to weight-loss GLP-1 medications—*
 
 ---
 
-## 📊 Key Findings
+## Key Findings
 
-### 📈 High-Adherence GLP-1 Users (≥65% PDC)
+### High-Adherence GLP-1 Users (≥65% PDC)
 
 - 88% female, mostly Gen X; 87% plan subscribers
 - **Medical costs** dropped **41%** from \$13,143 in 2021 → \$7,740 in 2024
@@ -54,7 +54,7 @@ This project models the impact of adherence to weight-loss GLP-1 medications—*
 - Inpatient costs dropped from \$202 → \$36 PMPM
 - Chronic condition PMPM dropped from \$1,091 → \$645
 
-### ⚠️ Low-Adherence GLP-1 Users (≤20% PDC)
+### Low-Adherence GLP-1 Users (≤20% PDC)
 
 - 83% female, 70% plan subscribers
 - **Medical costs increased** by **16%** from \$9,831 in 2021 → \$11,233 in 2024
@@ -63,7 +63,7 @@ This project models the impact of adherence to weight-loss GLP-1 medications—*
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 | File | Description |
 |------|-------------|
@@ -74,7 +74,7 @@ This project models the impact of adherence to weight-loss GLP-1 medications—*
 
 ---
 
-## 🔎 Insights
+## Insights
 
 - Medication adherence appears to be a key driver in reducing long-term medical costs, despite rising drug spend.
 - Poor adherence shows cost trends comparable to non-users—suggesting **inconsistent use may dilute benefit**.
