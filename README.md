@@ -19,7 +19,7 @@ This project models the impact of adherence to weight-loss GLP-1 medications—*
 - **Dataset Size**:
   - 261 members with ≥65% PDC (adherent users)
   - 171 members with ≤20% PDC (low-adherence)
-  - 1,000,000+ members in full book of business (mocked)
+  - 1,000,000+ members in full book of business
 - **Study Period**: Calendar years 2021 to 2024
 - **Baseline Year**: 2021 (pre-GLP-1 usage)
 - **Eligibility**:
